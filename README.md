@@ -103,7 +103,10 @@ Whilst peer review research on this topic is novel, there is clearly potential f
     - While NVIDIA stayed generally neutral, EA had a few days of positive sentiment between the 22nd and the 24th of June
     - And Ingersoll Rand received a lot of negative sentiment just after the 21st of June.
         - The day of their annual report of employee stock plans: https://investors.irco.com/financials/sec-filings/sec-filings-details/default.aspx?FilingId=17635091
-        
+
+      **Please note:** Results mentioned here are seen in the visualisation named: original_time_series_for_project
+       - The visualisation generated and seen in the notebook was made after the notebook was updated for ease of access and improved readability
+          - This occured in a different time horizon to the original project and therefore displays different results.
     
     Summary:
     
